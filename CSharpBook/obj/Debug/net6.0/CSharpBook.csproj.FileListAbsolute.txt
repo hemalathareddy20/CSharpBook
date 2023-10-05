@@ -1,0 +1,15 @@
+E:\Learnings\CSharpBook\CSharpBook\bin\Debug\net6.0\CSharpBook.exe
+E:\Learnings\CSharpBook\CSharpBook\bin\Debug\net6.0\CSharpBook.deps.json
+E:\Learnings\CSharpBook\CSharpBook\bin\Debug\net6.0\CSharpBook.runtimeconfig.json
+E:\Learnings\CSharpBook\CSharpBook\bin\Debug\net6.0\CSharpBook.dll
+E:\Learnings\CSharpBook\CSharpBook\bin\Debug\net6.0\CSharpBook.pdb
+E:\Learnings\CSharpBook\CSharpBook\obj\Debug\net6.0\CSharpBook.csproj.AssemblyReference.cache
+E:\Learnings\CSharpBook\CSharpBook\obj\Debug\net6.0\CSharpBook.GeneratedMSBuildEditorConfig.editorconfig
+E:\Learnings\CSharpBook\CSharpBook\obj\Debug\net6.0\CSharpBook.AssemblyInfoInputs.cache
+E:\Learnings\CSharpBook\CSharpBook\obj\Debug\net6.0\CSharpBook.AssemblyInfo.cs
+E:\Learnings\CSharpBook\CSharpBook\obj\Debug\net6.0\CSharpBook.csproj.CoreCompileInputs.cache
+E:\Learnings\CSharpBook\CSharpBook\obj\Debug\net6.0\CSharpBook.dll
+E:\Learnings\CSharpBook\CSharpBook\obj\Debug\net6.0\refint\CSharpBook.dll
+E:\Learnings\CSharpBook\CSharpBook\obj\Debug\net6.0\CSharpBook.pdb
+E:\Learnings\CSharpBook\CSharpBook\obj\Debug\net6.0\CSharpBook.genruntimeconfig.cache
+E:\Learnings\CSharpBook\CSharpBook\obj\Debug\net6.0\ref\CSharpBook.dll
