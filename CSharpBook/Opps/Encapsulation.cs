@@ -34,7 +34,7 @@ namespace CSharpBook.Opps
     }
     internal class Encapsulation
     {
-        public void MainMethod()
+        public void EncapSampleMethod()
         {
             // Using the BankAccount class
             BankAccount account = new BankAccount();
